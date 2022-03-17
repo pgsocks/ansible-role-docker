@@ -1,0 +1,10 @@
+namespace: pgsocks
+name: docker
+version: 0.1.0
+readme: README.md
+authors:
+- Programming Socks <pgsocks@pm.me>
+description: Modules and roles for configuring Docker
+tags:
+- collection
+- docker
